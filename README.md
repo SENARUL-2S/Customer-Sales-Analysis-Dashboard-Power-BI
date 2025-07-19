@@ -2,7 +2,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/Customer-Sales-Analysis-Dashboard-Power-BI/blob/main/Sales Analysis Dashboard.png" width="900" height ="250" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/Customer-Sales-Analysis-Dashboard-Power-BI/blob/main/Sales Analysis Dashboard.png" width="900" height ="400" alt="Coding gif"/>
 </p>
 
 ---
