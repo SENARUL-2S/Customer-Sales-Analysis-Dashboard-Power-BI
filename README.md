@@ -1,13 +1,19 @@
 # 📊 Customer Sales Analysis Dashboard (Power BI)
 
-This project analyzes customer sales data using Power BI to uncover valuable insights into product performance, regional sales trends, discount effectiveness, and profit metrics.
+<!-- Profile Banner GIF -->
+<p align="center">
+  <img src="https://github.com/SENARUL-2S/Customer-Sales-Analysis-Dashboard-Power-BI/blob/main/Sales Analysis Dashboard.png" width="900" height ="250" alt="Coding gif"/>
+</p>
 
+---
+
+This project analyzes customer sales data using Power BI to uncover valuable insights into product performance, regional sales trends, discount effectiveness, and profit metrics.
 
 ## 📁 Dataset Information
 
 **File Name:** `Customer_Sales_data.csv` 
-**Row and Column:** (500,10)
-**Fields:**
+- **Row and Column:** (500,10)
+- **Fields:**
 - `OrderID`: Unique sales transaction ID
 - `CustomerID`: Unique identifier for each customer
 - `Product`: Sold product name
